@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PLTreunion", "PLTreunion.csproj", "{6D0F4E28-5DE6-47ED-B7F9-4E880C30F89E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D0F4E28-5DE6-47ED-B7F9-4E880C30F89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0F4E28-5DE6-47ED-B7F9-4E880C30F89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0F4E28-5DE6-47ED-B7F9-4E880C30F89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0F4E28-5DE6-47ED-B7F9-4E880C30F89E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {237898B4-90E5-4BDB-B9B6-EF9296BCFB74}
+	EndGlobalSection
+EndGlobal
